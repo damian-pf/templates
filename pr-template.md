@@ -1,33 +1,22 @@
-### Status
-READY | IN DEVELOPMENT | ON HOLD
+| Q | A |
+|--|--|
+| Status | READY / IN DEVELOPMENT / ON HOLD |
+| Migrations | YES | NO |
+| Ticket | [link]() |
 
-### Migrations
-YES | NO
-
-### Description
+## Description
 _A few sentences describing the overall goals of the pull request's commits._
 
-### Steps to test/reproduce
+## Steps to test/reproduce
 _Outline the steps to test or reproduce the PR._
 
 1.
 
-### Related tickets
-_List related PRs against other branches_
-
-- [link]()
-
-### Related PRs
-_List any dependencies on other PRs._
-
-- [link]()
-
-### Todos
+## Todos
 _If this is a PR that is in progress describe what tasks still need to be completed._
 
-- [ ] Tests
+- [x] Tests
 - [ ] Documentation
 
-### Deployment notes
-_Notes regarding deployment of the contained body of work. These should note any
-db migrations, etc._
+## Deployment notes
+_When applicable: notes regarding deployment of the contained body of work. These should note any db migrations, etc._
