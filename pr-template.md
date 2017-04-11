@@ -2,7 +2,7 @@
 |--|--|
 | Status | READY / IN DEVELOPMENT / ON HOLD |
 | Migrations | YES | NO |
-| Ticket | [https://pixelfusion.atlassian.net/browse/__TICKET_NUMBER_HERE__](__TICKET_NUMBER_HERE__) |
+| Ticket | [__TICKET_NUMBER_HERE__](https://pixelfusion.atlassian.net/browse/__TICKET_NUMBER_HERE__) |
 
 ## Description
 _A few sentences describing the overall goals of the pull request's commits._
