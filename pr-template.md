@@ -2,6 +2,7 @@
 |--|--|
 | Status | READY / IN DEVELOPMENT / ON HOLD |
 | Migrations | YES | NO |
+| Tests | YES | NO |
 | Ticket | [__TICKET_NUMBER_HERE__](https://pixelfusion.atlassian.net/browse/__TICKET_NUMBER_HERE__) |
 
 ## Description
